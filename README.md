@@ -3,7 +3,7 @@
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Aprendizado sobre IA generativa - Bootcamp DIO em parceria com a Caixa
 
 ## 📒 Descrição
 Testando IA generativa criando um video no D-ID com a minha foto e o texto de teste.
